@@ -1,0 +1,4 @@
+#Tue Dec 04 13:21:55 IST 2018
+base.0=/home/twtech/Andr_projects/CurrentPosition/FVandCPIntegration_1stDec18/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

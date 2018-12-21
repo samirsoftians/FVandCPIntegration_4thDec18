@@ -1,0 +1,337 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [:library] /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/0c3b30725c372b28fa052ecd1323744b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/87a305e5154b60de88a612dff78668a2/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:17:1-31:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] /home/twtech/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.15.aar/73492ec65e721ac28584278356637be9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:7:5-9:40
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:7:5-9:40
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:7:5-9:40
+MERGED from [:library] /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/0c3b30725c372b28fa052ecd1323744b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/0c3b30725c372b28fa052ecd1323744b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/87a305e5154b60de88a612dff78668a2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/87a305e5154b60de88a612dff78668a2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:21:5-23:54
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] /home/twtech/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.15.aar/73492ec65e721ac28584278356637be9/AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] /home/twtech/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.15.aar/73492ec65e721ac28584278356637be9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:7:5-9:40
+INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:7:5-9:40
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml
+permission#com.app.maps.permission.MAPS_RECEIVE
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:11:5-13:46
+	android:protectionLevel
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:12:9-60
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:17:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:18:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:19:5-97
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:19:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:20:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:22:22-77
+application
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:24:5-68:19
+MERGED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/87a305e5154b60de88a612dff78668a2/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/87a305e5154b60de88a612dff78668a2/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:28:9-34
+	android:icon
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:27:9-47
+	android:allowBackup
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:25:9-32
+activity#com.example.currentpositionapp.LoginAct
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:32:13-38
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:31:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.example.currentpositionapp.VLimit
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:39:9-43
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:39:19-41
+activity#com.example.currentpositionapp.NewGoogle
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:40:9-46
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:40:19-44
+activity#com.example.currentpositionapp.StatusActivity
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:41:9-51
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:41:19-49
+activity#com.example.currentpositionapp.VehicleInfoActivity
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:42:9-43:58
+	android:theme
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:42:19-54
+activity#com.example.currentpositionapp.SearchActivity
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:44:9-45:58
+	android:theme
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:44:19-49
+service#com.example.currentpositionapp.MyService
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:47:9-45
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:47:18-43
+activity#com.example.currentpositionapp.fleetviewandroid.MainForm
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:48:9-62
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:48:19-60
+activity#com.example.currentpositionapp.fleetviewandroid.AddRequest
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:49:9-64
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:49:19-62
+activity#com.example.currentpositionapp.fleetviewandroid.Alerts
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:50:9-60
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:50:19-58
+activity#com.example.currentpositionapp.fleetviewandroid.CDViolationdetails
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:51:9-72
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:51:19-70
+activity#com.example.currentpositionapp.fleetviewandroid.FuelEntry
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:52:9-63
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:52:19-61
+activity#com.example.currentpositionapp.fleetviewandroid.OdoMeter
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:53:9-62
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:53:19-60
+activity#com.example.currentpositionapp.fleetviewandroid.RARDViolationdetails
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:54:9-74
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:54:19-72
+activity#com.example.currentpositionapp.fleetviewandroid.TodayViolationdetails
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:55:9-75
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:55:19-73
+activity#com.example.currentpositionapp.fleetviewandroid.ViewL1Report
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:56:9-66
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:56:19-64
+activity#com.example.currentpositionapp.fleetviewandroid.ViewViloationReport
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:57:9-73
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:57:19-71
+activity#com.example.currentpositionapp.fleetviewandroid.Violation
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:58:9-63
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:58:19-61
+activity#com.example.currentpositionapp.fleetviewandroid.L1Report
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:59:9-62
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:59:19-60
+meta-data#com.google.android.gms.version
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:61:9-63:68
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/3c0d69061255d0a20b710a1eea96c1b8/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:62:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:64:9-66:70
+	android:value
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:66:13-68
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/IntegratedFleetviewCurrentpositon/FVandCPIntegration_4thDec18/app/src/main/AndroidManifest.xml:65:13-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e350c27b02d70769d7cd74b6389ac789/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e2cd67c6f6ebe731f4d6f5bdfe7f1b04/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f7a406c7ae1bf68a1fdef9ded9cf856/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43755b43b6ffc474b004ced1d0f64180/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8beefccee3be0d67cd487611ce4bcadf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9d4747ff84b3b467745c105afabf50f7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fa78b3cf9e146d8c6c1e01ab37d3077c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/46f1b3e645a066b9d94dffac3b5d56d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/94e449030692b3e92ebfeda002c29662/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/333e41a2fce2275263d019294349ec44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b6afe65a5b056efe57d09a37db95b870/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c135ec3ed395b8140911677b3c45db32/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/e74b073684a3aac73ce666ea0ab784f9/AndroidManifest.xml:27:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/a46ac4cb854111b203b071cc7a78b215/AndroidManifest.xml:25:8-31
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/twtech/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/abe715094a4c6ad28227d905a3d18c81/AndroidManifest.xml:26:13-58
